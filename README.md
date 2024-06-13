@@ -2,8 +2,10 @@ ETH-Proof-Beginner
 PJCOIN (PJC) Token Smart Contract
 This Solidity smart contract implements the PJCOIN (PJC) token as an ERC-20 standard token on the Ethereum blockchain.
 
-Token Details
-Token Name: PJCOIN Token Symbol: PJC Initial Total Supply: 0
+Token Details=
+Token Name: PJCOIN
+Token Symbol: PJC 
+Initial Total Supply: 0
 
 Contract Functions
 mint(address to_address, uint to_value) -This function creates new tokens and assigns them to the specified address.
